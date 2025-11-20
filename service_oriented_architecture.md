@@ -52,3 +52,7 @@ Each one is a separate service.
 * Network latency (because services communicate over network)
 * Requires good governance and documentation
 * security becomes harder (many access points)
+
+### References
+https://www.geeksforgeeks.org/software-engineering/service-oriented-architecture/
+https://www.tutorialspoint.com/soa/soa_overview.htm
